@@ -2,7 +2,7 @@
 <ldml>
 	<identity>
 		<version number="" />
-		<generation date="2022-06-28T15:16:05Z" />
+		<generation date="2022-07-12T06:28:14Z" />
 		<language type="en" />
 		<special xmlns:sil="urn://www.sil.org/ldml/0.1">
 			<sil:identity revid="d5ebe07a8fcd8c4fdd5296f929058b3d9cadb216" script="Latn" source="cldr" windowsLCID="1033" />
@@ -23513,6 +23513,7 @@
 		<!-- The root/standard collation tailoring must exist and must be empty. -->
 		<!-- For the CLDR root collation order see
 				     http://www.unicode.org/reports/tr35/tr35-collation.html#Root_Collation -->
+		<collation type="standard" />
 	</collations>
 	<posix>
 		<messages>
